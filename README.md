@@ -12,3 +12,7 @@
 
 1. allows you to convert
 2. allows you to change unit
+
+# Live
+
+link - https://hero1230.github.io/simple_degree_converter/
