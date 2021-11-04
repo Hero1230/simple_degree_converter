@@ -4,8 +4,8 @@
   
 # Functions
 
-1. celcToFar - convert celsius to fahrenheit
-2. farToCelc - convert fahrenheit to celsius
+1. celcToFar - converts celsius to fahrenheit
+2. farToCelc - converts fahrenheit to celsius
 3. reset - value and result reset
 
 # Anonim functions
